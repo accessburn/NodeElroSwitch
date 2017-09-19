@@ -1,5 +1,5 @@
 # NodeElroSwitch
-NodeMCU with 433 Mhz Transmitter/Receiver and 0.996" OLED
+NodeMCU with 433 Mhz Transmitter/Receiver and 0.96" OLED
 
 ----------
 
